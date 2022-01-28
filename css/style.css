@@ -1,0 +1,36 @@
+body {
+    font: 20px arial, sans-serif;
+}
+.photo {
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+.navbar {
+    background-color: #4F377E ;
+    padding-top: 50px;
+}
+
+.missão {
+    background-color: aquamarine;
+    color: white;
+}
+
+.psicologia {
+    background-color: pink;
+    color: white;
+}
+
+.especializações {
+    background-color: rgb(95, 105, 161);
+    color: white;
+}
+.margin {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
